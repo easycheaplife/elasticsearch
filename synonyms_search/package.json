@@ -1,0 +1,19 @@
+{
+  "name": "disease_search",
+  "version": "1.0.0",
+  "description": "disease search",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "keywords": [
+    "disease"
+  ],
+  "dependencies":{
+	"mysql":"2.9.0",
+	"elasticsearch": "8.2.0",
+	"async":"1.4.2"
+  },
+  "author": "King Lee",
+  "license": "MIT"
+}
